@@ -11,9 +11,10 @@ cheatsheet do
         constantly execute a process and watch the results
 
         Usage:
+
         ```
         watch [OPTIONS] [COMMAND]
-
+        ```
 
         Example:
 
@@ -36,7 +37,6 @@ cheatsheet do
          watch -n 5 sudo /usr/local/sbin/rabbitmqctl list_queues
          ```
       END
-    end
     end
   end
 end

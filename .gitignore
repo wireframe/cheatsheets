@@ -80,3 +80,6 @@ pickle-email-*.html
 # vagrant files
 boxes/*
 .vagrant
+
+# Cheatset generated docfeeds
+/*.docset
